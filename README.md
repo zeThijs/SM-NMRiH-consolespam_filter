@@ -3,7 +3,8 @@ This is a sourcemod plugin for No More Room in Hell which filters out specific e
 
 Are you a server admin? Are you getting spammed with this kinda console errors?:
 <img src="firefox_dzVGho7zRo.png" data-canonical-src="firefox_dzVGho7zRo.png" width="500" height="150" />
-Perhaps you could use this.
+
+Then perhaps you could use this.
 
 
 Why this plugin?:
